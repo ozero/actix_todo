@@ -9,3 +9,5 @@ The sample app is up at https://actix-todo.onrender.com.
 ## Deployment
 
 See the guide at https://render.com/docs/deploy-actix-todo.
+
+ヽ(´ー｀)ノ
